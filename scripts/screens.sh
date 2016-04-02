@@ -9,13 +9,13 @@
 
 # location of pytrader directory
 
-PYTRADERHOME="~/pytrader"
+export PYTRADERHOME="~/pytrader"
 
 # IP address and port to bind the django server
 # PYTRADERBIND="" # Use default value 127.0.0.1:8000
 # PYTRADERBIND="45.34.34.12:80" # Use a specific IP address and port
 
-PYTRADERBIND=""
+export PYTRADERBIND=""
 
 # Configuration
 ####################
